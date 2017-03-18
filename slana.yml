@@ -1,0 +1,19 @@
+name: translator
+commands:
+- name: translate
+  executor: src/executor/translate
+  description: Translates text from source to target language
+  options:
+  - name: from
+    type: string
+  - name: to
+    type: string
+  - name: text
+    type: string
+- name: version
+  description: Prints the version of the translator
+  executor: src/executor/version
+  alias: v
+- name: check
+  description: Checks slana is working
+  executor: src/executor/check
