@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "translator": "bin/translate.js"
+    "translana": "bin/translate.js"
   },
   "repository": {
     "type": "git",
