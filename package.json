@@ -1,6 +1,6 @@
 {
   "name": "translana",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line example app configured with Slana Edit",
   "main": "index.js",
   "scripts": {
