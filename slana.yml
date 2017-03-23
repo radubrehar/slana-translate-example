@@ -1,4 +1,4 @@
-name: translator
+name: translana
 commands:
 - name: translate
   executor: src/executor/translate
