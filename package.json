@@ -1,5 +1,5 @@
 {
-  "name": "slana-translate-example",
+  "name": "translana",
   "version": "1.0.0",
   "description": "Command line example app configured with Slana Edit",
   "main": "index.js",
